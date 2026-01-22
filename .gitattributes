@@ -1,0 +1,6 @@
+r12/database-full.xz filter=lfs diff=lfs merge=lfs -text
+r12/database-full.zst filter=lfs diff=lfs merge=lfs -text
+r12/database-seekable-65536.zst filter=lfs diff=lfs merge=lfs -text
+r12/database-bic-seekable-65536.zst filter=lfs diff=lfs merge=lfs -text
+r12/database-bic.xz filter=lfs diff=lfs merge=lfs -text
+r12/database-bic.zst filter=lfs diff=lfs merge=lfs -text
